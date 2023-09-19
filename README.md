@@ -1,5 +1,3 @@
-# WP2_TeguhSaputra
-
 # Hello, I'm Teguh Saputra 👋
 
 ![Anime Lover](https://your-image-url.com)
