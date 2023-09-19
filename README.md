@@ -1,7 +1,18 @@
 # WP2_TeguhSaputra
 
-Hello, I'm Teguh Saputra.
+# Hello, I'm Teguh Saputra 👋
 
-I'm passionate about creating applications and enjoy watching anime in my free time. By profession, I work as a Web and Mobile Application Developer. My career allows me to combine my love for technology with my creativity to develop innovative and user-friendly applications. When I'm not coding or designing, you'll often find me immersed in the captivating world of anime, exploring its diverse genres and stories.
+![Anime Lover](https://your-image-url.com)
 
-I look forward to connecting and sharing my experiences with fellow enthusiasts in both the tech and anime communities.
+### 👨‍💻 Profession
+I am a Web & Mobile Application Developer, passionately transforming ideas into functional code.
+
+### 🚀 Hobbies
+When not immersed in development projects, I find joy in crafting creative applications. Additionally, I am an avid anime enthusiast, always ready to explore the captivating world of various anime genres.
+
+### 🌟 Let's Connect
+If you're interested in discussing application development, sharing anime recommendations, or simply want to connect, feel free to reach out. Let's embrace a future filled with innovation and entertainment!
+
+**LinkedIn:** [Teguh Saputra](https://www.linkedin.com/in/teguh-saputra-70939bb0/)
+**Email:** teguhsaputra01@gmail.com
+
